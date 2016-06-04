@@ -5,7 +5,7 @@ public class AnimalShelter {
 	public static void main(String[] args) {
 		System.out.println("Animal Shelter");
 		System.out.println("Second commit");
-		for(int i = 0; i < 7; ++i) {
+		for(int i = 0; i < 10; ++i) {
 			System.out.println("hue hue hue");
 		}	
 		System.out.println("Third commit");
